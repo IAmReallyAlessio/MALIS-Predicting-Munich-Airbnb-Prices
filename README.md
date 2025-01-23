@@ -7,5 +7,5 @@ We write four python notebooks to achieve this task:
 - __DeepNeuralNetwork.ipynb__ defines the class for the Deep Neural Network and its tuning and testing to find the best configuration of hyperparameters.
 - __HyperDeepNeuralNetwork.ipynb__ defines the class for the Deep Neural Network with HyperNetworks and its tuning and testing to find the best configuration of hyperparameters.
 
-The other file are images about tuning and metrics, *RMSE* and *R2*, results for models with Neural Network.
+The other files are images about the tuning process and the metrics (*RMSE* and *R2*) results for models with Neural Network.
 All work references can be found in the bibliography of the project report, __QCHOHI_GIUFFRIDA_GIANNUZZO.pdf__
